@@ -17,3 +17,11 @@ class A extends React.Compoent{
 		//3. 
 
 }
+
+public/index.html
+
+src/index.js
+
+package.json
+
+cdn
